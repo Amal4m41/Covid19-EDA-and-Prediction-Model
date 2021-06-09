@@ -1,4 +1,4 @@
-# Covid19-eda-prediction-model
+# Covid19-EDA-and-Prediction-Model
 COVID19 exploratory data analysis and forecast/prediction model 
 
 <b>Features:</b>
